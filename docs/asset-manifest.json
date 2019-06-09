@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b1bcc7a.chunk.css",
+    "main.js": "/static/js/main.18c102ac.chunk.js",
+    "main.js.map": "/static/js/main.18c102ac.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.8e92883d.chunk.js": "/static/js/2.8e92883d.chunk.js",
+    "static/js/2.8e92883d.chunk.js.map": "/static/js/2.8e92883d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e23a3dfd3d5309bee9eecac5b9fa1b59.js": "/precache-manifest.e23a3dfd3d5309bee9eecac5b9fa1b59.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2b1bcc7a.chunk.css.map": "/static/css/main.2b1bcc7a.chunk.css.map",
+    "static/media/3d space igloo.svg": "/static/media/3d space igloo.3767d727.svg",
+    "static/media/HomepageMain.10820828.svg": "/static/media/HomepageMain.10820828.svg",
+    "static/media/OurSpaceIgloos.svg": "/static/media/OurSpaceIgloos.c443152b.svg",
+    "static/media/SorsLogo.svg": "/static/media/SorsLogo.ed75156b.svg",
+    "static/media/blue.svg": "/static/media/blue.efc248db.svg",
+    "static/media/book.svg": "/static/media/book.da51c339.svg",
+    "static/media/bottom.svg": "/static/media/bottom.7bd355d9.svg",
+    "static/media/card.svg": "/static/media/card.c602f5b1.svg",
+    "static/media/comfortable.svg": "/static/media/comfortable.a0029e6a.svg",
+    "static/media/compact.svg": "/static/media/compact.f575172a.svg",
+    "static/media/green.svg": "/static/media/green.f0c8fd8c.svg",
+    "static/media/illust1.svg": "/static/media/illust1.e2f48a69.svg",
+    "static/media/illust2.svg": "/static/media/illust2.f1e1c2e2.svg",
+    "static/media/illust3.svg": "/static/media/illust3.d8eb6e3d.svg",
+    "static/media/illust4.svg": "/static/media/illust4.2170a0f2.svg",
+    "static/media/orange.svg": "/static/media/orange.dae6fbbb.svg",
+    "static/media/safe.svg": "/static/media/safe.7450c571.svg",
+    "static/media/top.svg": "/static/media/top.45bbcae5.svg"
+  }
+}
