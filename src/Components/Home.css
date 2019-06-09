@@ -1,0 +1,26 @@
+#mainIllust {
+    position: absolute;
+    z-index: 1; 
+    top: 0px;
+    right: 0px; 
+    margin-left: 300px; 
+}
+
+#spaceIgloo{
+    margin: 100px; 
+    
+}
+
+
+
+#iglooAttributes{
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#attributeIllustrations img{
+    margin: 50px; 
+}
+
+

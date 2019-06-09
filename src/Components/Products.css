@@ -1,0 +1,140 @@
+#igloo3d{
+    position: absolute;
+    margin-top: 150px; 
+    margin: 115px 150px 150px 150px;
+    top: 0px;
+}
+
+#illust1{
+    position: absolute;
+    width: 10%; 
+    top: 0px;
+    right: 0px; 
+}
+
+#illust2{
+    position: absolute;
+    width: 10%; 
+    left: -5px; 
+ 
+}
+
+#illust3{
+    position: absolute;
+    padding-top: 800px; 
+    top: 0px;
+    right: 0px; 
+    width: 30%;
+}
+#illust4{
+    position: absolute;
+    width: 40%; 
+    padding-top: 600px;
+
+}
+h1{
+    font-size: 24pt;
+    font-family: "Trebuchet MS";
+    font-weight: bold;
+    padding-top: 150px;
+    padding-bottom: 150px; 
+   
+}
+h2{
+    font-family: "Arial Rounded MT BOLD";
+    color: #4a396e;
+     z-index: 1;
+}
+
+h3{
+    text-align: center;
+    font-family: "Verdana";
+    color: #4a396e;
+    font-size: 12px; 
+
+}
+
+p{
+    font-family: "Helvetica";
+    font-style: "Light";
+    font-size: 11pt;
+    text-align:  justify;
+ 
+}
+#spaceIglooTitle{
+    position: relative;
+    text-align: center;
+    padding-top: 500px; 
+    z-index: 1;
+}
+
+.card{
+    background: white;
+    width: 100%;
+    background-image: linear-gradient(45deg, #93278f, #f7931e) 1;
+    border-radius: inherit;
+    border: 5px solid;
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    
+}
+.card1{
+    padding: 5px 10px;
+    border: 1px solid transparent;
+    border-radius: 80px;
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+}
+
+.row {
+    display: flex;
+    align-items: stretch;
+}
+
+#cardsContainer .col {
+    display: flex;
+    align-items: stretch;
+}
+
+
+#gradient{ 
+    border: 2px solid;
+    border-image: linear-gradient(45deg, #93278f, #f7931e) 1;
+    border-radius: inherit;
+    padding: 20px; 
+}
+#gradient:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+}
+
+#bookIllust{
+    margin: 5% 5% 5% 5%;
+}
+
+#interiorGraphic{
+    margin-top: 200px; 
+}
+
+#layoutTitle{
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 0px;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: red;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: red;
+}
+
+#label{
+    color: black;
+    padding-top: 100px; 
+}
