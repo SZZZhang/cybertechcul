@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "243074c6757f4e92a93717a5f7f7ba1d",
+    "revision": "36b6e942124522c8e2646ab14b7ec49d",
     "url": "/cybertechcul/index.html"
   },
   {
-    "revision": "162e6048f5ab5db83ca2",
+    "revision": "77239c971aa7ce321a44",
     "url": "/cybertechcul/static/css/main.2b1bcc7a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cybertechcul/static/js/2.8e92883d.chunk.js"
   },
   {
-    "revision": "162e6048f5ab5db83ca2",
-    "url": "/cybertechcul/static/js/main.5e14780c.chunk.js"
+    "revision": "77239c971aa7ce321a44",
+    "url": "/cybertechcul/static/js/main.2f7bd125.chunk.js"
   },
   {
     "revision": "1add103e66e304dd1747",
